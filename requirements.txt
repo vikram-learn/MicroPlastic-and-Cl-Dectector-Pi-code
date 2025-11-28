@@ -1,0 +1,14 @@
+# AS7265X Spectrometer custom driver dependencies
+smbus
+RPi.GPIO
+adafruit-circuitpython-busdevice
+
+# MPU6050 IMU
+mpu6050-raspberrypi
+
+# Utilities
+pyserial
+numpy
+
+# (Optional) GPS advanced parser (if we use later)
+pynmea2
